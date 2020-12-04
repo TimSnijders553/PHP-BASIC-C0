@@ -18,6 +18,7 @@
 /* 
  * Opdracht 2: Zet hier de $buttons array neer 
  */
+$buttons = [2139, 655, 0,0234];
 
 
 /******************************************* OPDRACHT 2 doe je hierboven *******************************************/
@@ -41,7 +42,7 @@ function calculateBitcoinAmount()
     }
 
     //SCHRIJF JE CODE.
-
+    
 
 
 }
